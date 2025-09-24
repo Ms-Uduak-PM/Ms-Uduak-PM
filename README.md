@@ -1,13 +1,21 @@
+
+
+<div align="center">
+
 # 👋 Hi, I'm Uduak  
-### Project Manager | AI Automation Specialist  
+</div>
+<div align="center">
+
+  ### Project Manager | AI Automation Specialist  
 Helping teams stay organized, efficient, and focused on impact.  
+</div>
 
 
 #### ✨About Me✨
 - 🔹 Skilled in *project management, automation, process and workflow optimization, and admin support*  
 - 🔹 Passionate about *building systems that save time and reduces stress*  
 - 🔹 Currently learning advanced tools to streamline business operations 
-
+  
 
 ## 🛠 Tools & Skills
 - 📊 Project Management: Notion | Trello | Monday.com | Asana | ClickUp
