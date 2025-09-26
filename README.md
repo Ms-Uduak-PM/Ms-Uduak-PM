@@ -11,7 +11,7 @@ Helping teams stay organized, efficient, and focused on impact.
 </div>
 
 
-#### ✨About Me✨
+### ✨About Me✨
 - 🔹 Skilled in *project management, automation, process and workflow optimization, and admin support*  
 - 🔹 Passionate about *building systems that save time and reduces stress*  
 - 🔹 Currently learning advanced tools to streamline business operations 
